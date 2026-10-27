@@ -47,7 +47,7 @@ An interactive, industrial-grade 3D logistics simulation of autonomous guided ve
 ## 🤖 AGV Fleet Specifications
 
 | AGV ID | Name | Color | Start Node | Default Priority |
-|:---:|:---|:---:|:---:|:---:|
+
 | **101** | AGV-101 (Alpha) | Amber (#f59e0b) | Station 0 (Inbound Dock A) | P5 (Priority Order) |
 | **102** | AGV-102 (Beta) | Blue (#0284c7) | Station 5 (Pallet Storage) | P2 (Standard Routine) |
 | **103** | AGV-103 (Gamma) | Green (#10b981) | Station 6 (Inbound Dock B) | P4 (Restock) |
